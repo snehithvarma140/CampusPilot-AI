@@ -1,0 +1,6 @@
+{
+  "name": "CampusPilot AI",
+  "description": "The Autonomous Student Operating System (StudentOS) - Powered by Gemini AI Agents for Goal Understanding, Planning, Scheduling, Memory, and Progress Tracking.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
